@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+<title>Scratch Search</title>
+</head>
+<style>
+#nav {
+display: fixed;
+position: fixed;
+top: 0;
+left: 0;
+border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+box-shadow: 0 0 3px rgba(0, 0, 0, 0.25);
+background-color:black;
+width: 100%;
+height: 40px;
+padding-bottom: 12px;
+padding-top: 0px;
+text-decoration:none;
+}
+#search {
+background-color:#4280d7;
+width: 100%;
+height: 110px;
+padding-top: 10px;
+margin-bottom: 15px;
+margin-top: 14.3px;
+color: white;
+}
+#text li
+{
+display:inline;
+}
+</style>
+<div id="nav">
+<font face="Arial, sans-serif">
+<Font size=-1>
+<b>
+<div id="text">
+<ul><p>
+<div id="survol">
+<li class="link create">
+<a href="https://scratch.mit.edu/projects/editor/" style="color: white; text-decoration:none">
+Create &emsp;
+</a></li><li class="link explore">
+<a href="https://scratch.mit.edu/explore/projects/all" style="color: white; text-decoration:none">
+Explore &emsp;
+</a></li><li class="link ideas" style="color: white; text-decoration:none">
+<a href="https://scratch.mit.edu/ideas/" style="color: white; text-decoration:none">
+Ideas &emsp;
+</a>
+</li>
+<li class="link about">
+<a href="https://scratch.mit.edu/about" style="color: white; text-decoration:none">
+About &emsp;</li></a></b>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<li><a href="https://scratch.mit.edu/messages/">
+<img src="https://scratch.mit.edu/images/nav-notifications.png" width="23"
+height="17" style="margin-top:5px"></img></a></li>
+&emsp;
+<li><a href="https://scratch.mit.edu/mystuff">
+<img src="https://scratch.mit.edu/images/mystuff.png" width="23"
+height="19"></img></a></li>
+</div>
+</div>
+</a>
+</a>
+</a>
+</a>
+</p>
+</b>
+</li>
+</ul>
+</font>
+</style><div id="search">
+<center>
+<h1>
+Search
+</h1>
+</center>
+</div>
+<div id="result">
+<div class="scroller">
+</div>
+<script async src="https://cse.google.com/cse.js?cx=5f0ad160ffdfae7d4"></script>
+<div id="result">
+<div class="gcse-searchbox"></div>
+<div class="gcse-searchresults"></div>
+<div id="more">
+<center>
+<font size=-1 color="white">
+<b>
+<a href="#&gsc.page=2" style="color: white; text-decoration:none">Load more</a>
+</font>
+</b>
+</center>
+<style>
+#result {
+over-flow-y: auto;
+margin: 0px 100px 300px 100px;
+margin-top: 70px
+}
+#more {
+background-color: black;
+border-radius: 6px;
+width: 100%;
+height: 20px;
+padding-top: 5px;
+padding-bottom: 5px;
+width: 100%
+}
+#info {
+background-color: lightgrey;
+border-radius: 6px;
+width: 100%;
+height: 50px;
+padding-top: 5px;
+padding-bottom: 5px;
+width: 100%;
+color: black
+}
+</style>
+<pre>
+<font face="Arial, sans-serif">
+
+
+<small>Scratch Search is not affiliated with Scratch, the Scratch Team, or the Scratch Foundation.</small>
+
+<div id="info">
+&emsp;&emsp;&emsp;&emsp;&emsp; Scratch Search is in creation and created by a scratcher, to report problems and bugs go to his <a href="https://scratch.mit.edu/users/Arqwa/#comments"
+style="color:#4280d7; text-decoration:none">Scratch profile</a>.
+</b>
+</div>
